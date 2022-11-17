@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-# Distribution / packaging
+# .Ds_store
 .Python
 build/
 develop-eggs/
@@ -32,7 +32,7 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
-
+.store
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
